@@ -12,6 +12,7 @@ let mkdirp = require('mkdirp');
 let start = 'Main_topic_classifications'
 let url = 'https://en.wikipedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category:' + start + '&cmlimit=500'
 
+let retries = 50;
 function tryParse(text) {
   try {
     return JSON.parse(text);
@@ -38,14 +39,14 @@ function get(depth, url, path, type, retries, cb) {
               'https://en.wikipedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=' + title + '&cmlimit=500&cmtype=subcat',
               path + '/' + title.split(':')[1],
               'categories',
-              5
+              retries
             )
           );
 
       return cb(more);
     }
      
-  https.get(
+  let req = https.get(
     url,
     (res) => {
       let body = '';
@@ -73,30 +74,38 @@ function get(depth, url, path, type, retries, cb) {
             cb
           )
 
-          if (depth <= 5) {
-            let more = 
-              json.query.categorymembers.map(
-                (cat) => cat.title
-              ).map(
-                (title) => 
-                  _.partial(
-                    get,
-                    depth + 1,
-                    'https://en.wikipedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=' + title + '&cmlimit=500&cmtype=subcat',
-                    path + '/' + title.split(':')[1],
-                    'categories',
-                     5
-                  )
-                );
+            if (depth <= 5) {
+              let more = 
+                json.query.categorymembers.map(
+                  (cat) => cat.title
+                ).map(
+                  (title) => 
+                    _.partial(
+                      get,
+                      depth + 1,
+                      'https://en.wikipedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=' + title + '&cmlimit=500&cmtype=subcat',
+                      path + '/' + title.split(':')[1],
+                      'categories',
+                      retries
+                    )
+                  );
 
-             cb(more)
-           } else {
-             cb([]);
-           }
-        });
-      });  
-    }
-  ) 
+               cb(more)
+             } else {
+               cb([]);
+             }
+          });
+        });  
+      }
+    );
+
+    req.on('error', () => {
+      if (retries > 0) {
+         return cb([_.partial(get, depth, url, path, type, retries - 1)]);
+      } else {
+        return cb([]);
+      }
+    });
   } catch (e) {
     if (retries > 0) {
       return cb([_.partial(get, depth, url, path, type, retries - 1)]);
@@ -110,7 +119,7 @@ function save(type, path, data, cb) {
 }
 
 
-requests = [_.partial(get, 0, url, 'data', 'categories', 5)];
+requests = [_.partial(get, 0, url, 'data', 'categories', retries)];
 
 function recurse(requests1, requests2) {
   let requests = requests1.concat(requests2 || []);
@@ -130,7 +139,7 @@ function recurse(requests1, requests2) {
         _.partial(recurse, requests2)
       );
     }
-  }, 150);
+  }, 250);
 }
 
 recurse(requests);
