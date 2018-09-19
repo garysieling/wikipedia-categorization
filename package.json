@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dnscache": "^1.0.1",
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1"
   }
