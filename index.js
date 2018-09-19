@@ -26,6 +26,10 @@ function get(depth, url, path, type, retries, cb) {
     console.log(url);
     const destFilename = path + '/' + type + '.json';
 
+    if (depth > 3) {
+      return cb([]); 
+    }
+
     if (fs.existsSync(destFilename)) {
       const json = JSON.parse(fs.readFileSync(destFilename, 'utf-8'));
       let more = 
@@ -74,7 +78,6 @@ function get(depth, url, path, type, retries, cb) {
             cb
           )
 
-            if (depth <= 2) {
               let more = 
                 json.query.categorymembers.map(
                   (cat) => cat.title
@@ -91,9 +94,6 @@ function get(depth, url, path, type, retries, cb) {
                   );
 
                cb(more)
-             } else {
-               cb([]);
-             }
           });
         });  
       }
@@ -125,7 +125,8 @@ function recurse(requests1, requests2) {
   let requests = requests1.concat(requests2 || []);
   if (requests.length === 0) { return; }
 
-  _.delay(() => {
+  setTimeout( 
+    function() {
     if (requests1 && requests1.length > 0) {
       next = requests1.pop();
       next(
@@ -135,6 +136,7 @@ function recurse(requests1, requests2) {
 
     if (requests2 && requests2.length > 0) {
       next = requests2.pop();
+      
       next(
         _.partial(recurse, requests2)
       );
