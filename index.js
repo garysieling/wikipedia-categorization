@@ -74,7 +74,7 @@ function get(depth, url, path, type, retries, cb) {
             cb
           )
 
-            if (depth <= 5) {
+            if (depth <= 2) {
               let more = 
                 json.query.categorymembers.map(
                   (cat) => cat.title
