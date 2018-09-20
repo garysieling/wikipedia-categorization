@@ -35,16 +35,20 @@ function tryParse(text) {
 }
 
 walkSync('data/').map(
-  ([file, depth]) => {
-    if (depth > 0 && depth <= 3) {
-      console.log(file, depth);
-      const parts = file.split('/');
-      const cat = parts[parts.length - 2];
+  ([file, depth], i) => {
+    setTimeout(
+      function() {
+        if (depth > 0 && depth <= 3) {
+          console.log(file, depth);
+          const parts = file.split('/');
+          const cat = parts[parts.length - 2];
       
-      let url = 'https://en.wikipedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtype=page&cmtitle=Category:' + cat + '&cmlimit=500';
-      const path = file.substring(0, file.lastIndexOf('/'));
-      get(url, path, 'pages', 1, () => {});
-    }
+          let url = 'https://en.wikipedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtype=page&cmtitle=Category:' + cat + '&cmlimit=500';
+          const path = file.substring(0, file.lastIndexOf('/'));
+          get(url, path, 'pages', 1, () => {});
+        }
+      },
+      i * 100)
   }
 )
 
