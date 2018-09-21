@@ -88,38 +88,19 @@ function get(url, path, type, retries, cb) {
 
       res.on('end', function(){
         console.log('*' + body + '*');
+        console.log('*' + path + '*');
        
         if (body.length === 0) {
-          if (retries > 0) {
-            return cb([_.partial(get, url, path, type, retries - 1)]);
-          } else {
-            return cb([]);
-          }
+          return;
         } 
 
         mkdirp(path, function(err) { 
           console.log(destFilename);
-          fs.writeFile(
+          fs.writeFileSync(
             destFilename,
-            body,
-            cb
+            body
           )
 
-              let more = 
-                json.query.categorymembers.map(
-                  (cat) => cat.title
-                ).map(
-                  (title) => 
-                    _.partial(
-                      get,
-                      'https://en.wikipedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=' + title + '&cmlimit=500&cmtype=subcat',
-                      path + '/' + title.split(':')[1],
-                      'categories',
-                      retries
-                    )
-                  );
-
-               cb(more)
           });
         });  
       }
