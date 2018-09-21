@@ -39,6 +39,9 @@ walkSync('data/')
   .filter(
     ([file, depth]) => file.endsWith('pages.json')
   )
+  .filter(
+    ([file, depth]) => file.indexOf('/articles/') < 0
+  )
   .map(
     ([file, depth]) => 
       JSON.parse(fs.readFileSync(file))
@@ -70,7 +73,7 @@ walkSync('data/')
 function get(url, path, type, retries, cb) {
   try { 
     console.log(url);
-    const destFilename = path + '/articles/' + type + '.json';
+    const destFilename = path + '/articles/' + type.replace(/[\/]/g, '_') + '.json';
 
     if (fs.existsSync(destFilename)) {
       console.log('Cached ' + path);
@@ -94,7 +97,7 @@ function get(url, path, type, retries, cb) {
           return;
         } 
 
-        mkdirp(path, function(err) { 
+        mkdirp(path + '/articles/', function(err) { 
           console.log(destFilename);
           fs.writeFileSync(
             destFilename,
