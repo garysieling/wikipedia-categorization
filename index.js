@@ -26,7 +26,7 @@ function get(depth, url, path, type, retries, cb) {
     console.log(url);
     const destFilename = path + '/' + type + '.json';
 
-    if (depth > 3) {
+    if (depth > 4) {
       return cb([]); 
     }
 
@@ -141,7 +141,7 @@ function recurse(requests1, requests2) {
         _.partial(recurse, requests2)
       );
     }
-  }, 250);
+  }, 100);
 }
 
 recurse(requests);

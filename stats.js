@@ -49,4 +49,17 @@ walkSync('data/').map(
   }
 )
 
-console.log(JSON.stringify(dataset, null, 2));
+const tuples =
+  _.toPairs(dataset);
+
+const scale = 
+  tuples
+    .filter( ([k, v]) => !k.match(/\bstubs\b/) )
+    .filter( ([k, v]) => !k.match(/_cat\b/) )
+    .filter( ([k, v]) => v >= 500 );
+
+const atScale =
+  _.fromPairs(scale);
+
+//console.log(JSON.stringify(dataset, null, 2));
+console.log(JSON.stringify(atScale, null, 2));
