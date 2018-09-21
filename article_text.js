@@ -59,7 +59,7 @@ walkSync('data/')
       
                 let url = 'https://en.wikipedia.org/w/api.php?action=parse&format=json&page=' + title;
                 const path = file.substring(0, file.lastIndexOf('/'));
-                get(url, path, 'pages', 1, () => {});
+                get(url, path, title, 1, () => {});
               },
               (i++) * 100)
           }
@@ -88,9 +88,8 @@ function get(url, path, type, retries, cb) {
 
       res.on('end', function(){
         console.log('*' + body + '*');
-        let json = tryParse(body);
        
-        if (body.length === 0 || _.get(json, ['query', 'categorymembers'], '') === '') {
+        if (body.length === 0) {
           if (retries > 0) {
             return cb([_.partial(get, url, path, type, retries - 1)]);
           } else {
@@ -99,6 +98,7 @@ function get(url, path, type, retries, cb) {
         } 
 
         mkdirp(path, function(err) { 
+          console.log(destFilename);
           fs.writeFile(
             destFilename,
             body,
