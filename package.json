@@ -10,8 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "cmu-pronouncing-dictionary": "^1.0.3",
     "dnscache": "^1.0.1",
     "lodash": "^4.17.11",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "natural": "^0.6.1"
   }
 }
