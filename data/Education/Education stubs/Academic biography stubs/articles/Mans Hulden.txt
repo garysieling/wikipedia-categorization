@@ -1,0 +1,1 @@
+Mans Hulden is a researcher in computational linguistics currently holding the title of Assistant Professor at the Department of Linguistics of the University of Colorado Boulder.  He is the creator and maintainer of the free and open source finite-state toolkit Foma.  

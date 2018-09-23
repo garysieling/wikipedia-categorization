@@ -1,0 +1,1 @@
+Unique Feature Identifier or UFI  is a geocode used for cities, towns, villages, and other geographic features. Generally, these are Static Unique Feature Identifiers (SUFI). 

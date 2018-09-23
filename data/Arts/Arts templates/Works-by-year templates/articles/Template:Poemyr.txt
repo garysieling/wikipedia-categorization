@@ -1,0 +1,1 @@
+Poems written or published in [[{{{1}}}{{{2}}}]].  Usage: for the category 1976 poems, put "{{poemyr|197|6}}" 

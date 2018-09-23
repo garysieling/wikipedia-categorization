@@ -1,0 +1,1 @@
+The KtbDarija       (Literally "WriteDarija") is a project aiming at standardizing the writing of Darija (Moroccan arabic), to improve literacy rate and make it easier to learn for foreigners. It is double standard that support both Latin and Abjad alphabets. A set of keyboard layouts for writing in these alphabets have also been developed. 

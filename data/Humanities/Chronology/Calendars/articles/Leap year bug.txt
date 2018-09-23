@@ -1,0 +1,1 @@
+The leap year bug (also known as the leap year problem) is a problem for both digital (computer-related) and non-digital documentation and data storage situations which results from the wrong calculation of which years are leap years. There have been several occurrences of the leap year bug: 

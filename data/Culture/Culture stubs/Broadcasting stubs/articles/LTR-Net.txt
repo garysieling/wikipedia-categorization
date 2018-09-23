@@ -1,0 +1,1 @@
+LTR-Net is a type of LTR Trunked Radio System that is a backward compatible with LTR Standard.  LTR Standard radios can be used on an LTR-Net system. 

@@ -1,0 +1,1 @@
+Xanagrams is an educational game that is a cross between a crossword puzzle and Scrabble. It was given away for free with the Amstrad CPC 464 and was a very popular game.  There are 3 difficulty level to the game, from middle school aged to adults. A game can consist of 1-5 words and the player is given a jumble of letters to sort out to form the correct words.  

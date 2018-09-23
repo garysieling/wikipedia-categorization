@@ -1,0 +1,1 @@
+The transmission coefficient is needed for host parasite models. It is represented by β and it is the rate that disease moves from infected individuals to susceptible individuals in the population. It must be between 0 and 1.  The transmission coefficient is used in the equation dY/dt = βXY/N-γY .  

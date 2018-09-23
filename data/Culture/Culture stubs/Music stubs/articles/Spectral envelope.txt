@@ -1,0 +1,1 @@
+A spectral envelope  is the envelope curve of the amplitude spectrum. It describes one point in time (one window, to be precise). In remote sensing using a spectrometer, the spectral envelope of a feature is the boundary of its spectral properties, as defined by the range of brightness levels in each of the spectral bands of interest.  

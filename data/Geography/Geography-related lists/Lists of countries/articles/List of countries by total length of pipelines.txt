@@ -1,0 +1,1 @@
+This is a sortable list of countries and their total length of pipelines, mostly based on the CIA World Factbook,  accessed in November 2015.  This article incorporates public domain material from the CIA World Factbook website https://www.cia.gov/library/publications/the-world-factbook/index.html. 

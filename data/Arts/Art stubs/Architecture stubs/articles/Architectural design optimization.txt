@@ -1,0 +1,1 @@
+Architectural design optimization (ADO) is a subfield of engineering that uses optimization methods to study, aid, and solve architectural design problems, such as optimal floorplan layout design, optimal circulation paths between rooms, and the like.  

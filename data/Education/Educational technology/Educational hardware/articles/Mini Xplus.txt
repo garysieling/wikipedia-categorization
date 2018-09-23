@@ -1,0 +1,1 @@
+The Mini Xplus is a small computer that runs Android 4.0 and is based on the AllWinner A10 SoC. It is sold together with a remote control and is therefore suitable for use as an HTPC.  

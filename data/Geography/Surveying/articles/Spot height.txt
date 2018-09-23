@@ -1,0 +1,1 @@
+A spot height is an exact point on a map with an elevation recorded beside it that represents its height above a given datum.  In the UK this is the Ordnance Datum. Unlike a bench-mark, which is marked by a disc or plate, there is no official indication of a spot height on the ground although, in open country, spot heights may sometimes be marked by cairns.  

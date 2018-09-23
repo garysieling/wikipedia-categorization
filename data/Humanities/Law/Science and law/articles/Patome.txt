@@ -1,0 +1,1 @@
+Patome is a database of biological sequence data of issued patents and/or published applications   

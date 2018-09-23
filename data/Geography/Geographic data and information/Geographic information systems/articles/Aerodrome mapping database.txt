@@ -1,0 +1,1 @@
+An aerodrome mapping database is a geographic information system (GIS) database to describe airports. The following standards have been defined by the RTCA and EUROCAE: (1) https://web.archive.org/web/20101231112429/http://www.eurocontrol.int/aim/public/standard_page/interop_amxs_intro.html 

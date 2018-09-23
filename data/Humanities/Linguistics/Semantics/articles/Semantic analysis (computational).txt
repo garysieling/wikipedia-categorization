@@ -1,0 +1,1 @@
+Semantic analysis (computational) is a composite of the "semantic analysis" and the "computational" components. "Semantic analysis" refers to a formal analysis of meaning, and "computational" refer to approaches that in principle support effective implementation.  

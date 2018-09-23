@@ -1,0 +1,1 @@
+The VoCore is "a coin-sized Linux computer with wifi".  It is a single-board computer developed in China. It includes WiFi (2.4 GHz 802.11 b/g/n), Ethernet (10/100 Mb/s x2), USB 2.0 (up to 480M) and 28 GPIO (reused). It is entirely open source. Both the hardware and the software are available on the  VoCore website.      

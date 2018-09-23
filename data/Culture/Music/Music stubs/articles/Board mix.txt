@@ -1,0 +1,1 @@
+A board mix is a recording created by running lines directly off a mixing console while sound is mixed in real time.   The alternative to a board mix is use a virtual mixing console, an increasingly popular approach.  

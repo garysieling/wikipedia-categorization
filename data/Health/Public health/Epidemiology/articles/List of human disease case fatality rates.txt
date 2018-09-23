@@ -1,0 +1,1 @@
+This is a list of human disease case fatality rates (CFRs). A CFR is the proportion of people diagnosed with a disease who die during the course of the disease (Cf. mortality rate). Data are based on optimally treated patients and exclude isolated cases or minor outbreaks, unless otherwise indicated. 

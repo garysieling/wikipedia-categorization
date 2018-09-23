@@ -1,0 +1,1 @@
+Longitudinal data system is a data system capable of tracking student information over multiple years in multiple schools.  The term appears in Federal law of the United States to describe such a system.  Federal funding is provided to aid the design and implementation of such systems.  

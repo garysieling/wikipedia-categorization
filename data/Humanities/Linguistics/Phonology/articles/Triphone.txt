@@ -1,0 +1,1 @@
+In linguistics, a triphone is a sequence of three phonemes.  Triphones are useful in models of natural language processing where they are used to establish the various contexts in which a phoneme can occur in a particular natural language. 

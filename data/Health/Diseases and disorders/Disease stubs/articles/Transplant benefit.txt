@@ -1,0 +1,1 @@
+Transplant benefit or transplant benefit measure is a measure of evaluating the conditions of the patient before transplantation of an organ especially the lungs. It is calculated by deduction of another variable called "Waiting list urgency measure" from Post-transplant survival measure.   it is used, for example, for calculation of Lung allocation score based on the formula:  

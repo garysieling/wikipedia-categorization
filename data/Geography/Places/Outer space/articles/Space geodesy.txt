@@ -1,0 +1,1 @@
+Space geodesy is geodesy by means of sources external to Earth, mainly artificial satellites (in satellite geodesy) but also quasars (in very-long-baseline interferometry, VLBI) and the retroreflectors on the Moon (in lunar laser ranging, LLR).  

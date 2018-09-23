@@ -1,0 +1,1 @@
+iCOR is an education software which collects data for classroom observations. Classroom observations are a collection of lesson observations that is useful for teacher training and professional development.  

@@ -1,0 +1,1 @@
+Redirect to:PMPM stands for Per Member Per Month. It is calculated by deriving the average of total healthcare costs for a single member in a month. PMPM is an indicator for healthcare expenditure and it is analyzed against different Health status category parameters such as Healthy, Significant acute, etc. 

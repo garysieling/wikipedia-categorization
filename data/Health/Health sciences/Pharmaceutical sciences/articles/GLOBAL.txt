@@ -1,0 +1,1 @@
+GLOBAL   was a language developed in industry and sold off privately as an expert system.  It was used to design several biopharmaceutical products, and sold to Tularik (Amgen). Prometheus used for drug system design was written using GLOBAL and is described on this Cray software specification. 

@@ -1,0 +1,1 @@
+Postal codes in Mexico are issued by SEPOMEX (Servicio Postal Mexicano). The first 2 digits identify a state (or part thereof); and assignments are done alphabetically by state name, except for codes in the 0xxx-1xxxx range which identify the delegaciones (boroughs) of Mexico City. jose serrano 

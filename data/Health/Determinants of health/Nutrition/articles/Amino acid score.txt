@@ -1,0 +1,1 @@
+Amino acid score, in combination with protein digestibility, is the method used to determine if a protein is complete. PDCAAS and DIAAS are the two major protein standards which determine the completeness of proteins by their unique composition of essential amino acids.  

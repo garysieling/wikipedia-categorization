@@ -1,0 +1,1 @@
+In feature-based phonology, delayed release is a distinctive feature representing how quickly the closure in a non-continuant consonant is released. It separates stops, which are [−delayed release], from affricates, which are [+delayed release], both of which are [−sonorant, −continuant].  

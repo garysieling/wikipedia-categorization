@@ -1,0 +1,1 @@
+Universal Conceptual Cognitive Annotation (UCCA)   is a semantic approach to grammatical representation.  It is a cross-linguistically applicable semantic representation scheme, and has demonstrated support for rapid annotation.  

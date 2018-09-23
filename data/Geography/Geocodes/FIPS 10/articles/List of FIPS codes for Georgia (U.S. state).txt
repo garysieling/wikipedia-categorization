@@ -1,0 +1,1 @@
+This is the list of FIPS codes for Georgia — FIPS codes for each county in the state. - Weatheradios with WRSAME can also use these codes (prefixed with a 0).  *Note that Columbus is not an independent city as the number suggests.  It is a consolidated city-county with Muscogee County, incorporating everything outside of Fort Benning. 

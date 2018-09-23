@@ -1,0 +1,1 @@
+SWEPOS is a support system for accurate measurement of Swedish geography using a network of fixed reference stations which gather GNSS data. The SWEPOS system permits mobile GPS/GLONASS  receivers to receive detailed positioning data down to the centimeter level. 

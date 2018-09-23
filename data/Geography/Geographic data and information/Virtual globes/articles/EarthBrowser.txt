@@ -1,0 +1,1 @@
+EarthBrowser is a virtual globe software developed by Lunar software. It is available online as a flash application or be installed locally as an AIR application. It focuses mainly on visualising geophysical information such as weather, earthquakes, etc. It shows the earth as satellite images. 

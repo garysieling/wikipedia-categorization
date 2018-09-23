@@ -1,0 +1,1 @@
+GeoXACML stands for Geospatial eXtensible Access Control Markup Language. It defines a geo-specific extension to XACML Version 2.0, as it was ratified by OASIS standards organization on 1 February 2005. GeoXACML version 1.0.1 is standardized by the Open Geospatial Consoritum (OGC). 

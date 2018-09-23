@@ -1,0 +1,1 @@
+XTM: XML-Based Text Memory Next Generation Web 2.0 Computer Assisted Translation software (CAT) is a language translation program from XTM-INTL based on OAXAL open architecture for XML authoring and localization.  

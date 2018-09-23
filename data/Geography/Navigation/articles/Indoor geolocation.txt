@@ -1,0 +1,1 @@
+Indoor Geolocation is the process of finding geolocation of an electronic device inside a building.  Since technologies used for indoor geolocation are substantially different from other technologies used for outdoor geolocation this area is considered as a separate area of science and technology.   

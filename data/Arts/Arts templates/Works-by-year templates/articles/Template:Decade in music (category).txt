@@ -1,0 +1,1 @@
+(Note that this has no plural at the end) Also adds the category for the decade (e.g. Category:1960s) and the century in music (e.g. Category:20th century in music) (Correct for all centuries A.D.) 

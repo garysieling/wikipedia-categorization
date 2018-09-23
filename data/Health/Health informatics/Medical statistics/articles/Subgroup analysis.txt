@@ -1,0 +1,1 @@
+Subgroup analysis, in the context of design and analysis of experiments, refers to looking for pattern in a subset of the subjects.   

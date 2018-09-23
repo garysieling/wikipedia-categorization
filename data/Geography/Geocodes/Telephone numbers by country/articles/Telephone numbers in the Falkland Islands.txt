@@ -1,0 +1,1 @@
+Country Code: +500 International Call Prefix: 00 National Significant Numbers (NSN): five digits. Format: +500 YYXXX  

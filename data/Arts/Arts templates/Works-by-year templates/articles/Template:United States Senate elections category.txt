@@ -1,0 +1,1 @@
+ Just use: {{United States Senate elections category}} Both the place and the year are derived automatically, from the category name. The template generates navigational links to categories for elections in preceding and succeeding decades. 

@@ -1,0 +1,1 @@
+In mathematical modelling in epidemiology, the WAIFW matrix is an abbreviation for the Who Acquires Infection From Whom matrix. This describes the rate of transmission of infection between different groups in a population, such as people of different ages. 

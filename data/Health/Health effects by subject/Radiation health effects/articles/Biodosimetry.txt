@@ -1,0 +1,1 @@
+Biodosimetry is a measurement of biological response as a surrogate for radiation dose.  The International Commission on Radiation Units and Measurements and International Atomic Energy Agency have issued guidance on performing biodosimetry and interpreting data.  

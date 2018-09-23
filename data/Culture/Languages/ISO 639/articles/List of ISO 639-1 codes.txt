@@ -1,0 +1,1 @@
+ISO 639 is a standardized nomenclature used to classify languages. Each language is assigned a two-letter (639-1) and three-letter (639-2 and 639-3), lowercase abbreviation, amended in later versions of the nomenclature. This table lists all of: And some of: Note: Colors on the leftmost column represent the language family mentioned in second column. 

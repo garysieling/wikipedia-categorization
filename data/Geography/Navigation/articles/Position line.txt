@@ -1,0 +1,1 @@
+A position line is a line that can be identified both on a nautical chart or aeronautical chart and by observation out on the surface of the earth. The intersection of two position lines is a fix that is used in position fixing to identify the navigator's location. There are several types of position line:  

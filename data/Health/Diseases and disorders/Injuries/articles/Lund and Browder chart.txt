@@ -1,0 +1,1 @@
+The Lund and Browder chart is a tool useful in the management of burns for estimating the total body surface area affected. Unlike the Wallace rule of nines, the Lund and Browder chart takes into consideration of age of the person,  with decreasing percentage BSA for the head and increasing percentage BSA for the legs as the child ages, making it more useful in pediatric burns.  

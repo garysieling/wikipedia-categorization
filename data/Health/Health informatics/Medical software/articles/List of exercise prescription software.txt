@@ -1,0 +1,1 @@
+This list of exercise prescription software contains software packages related to the sending or printing of exercise instructions commonly used by physiotherapists.         PTStudio  is an online exercise prescription software that has a user interface and animated exercises in seven different languages. Also free version available 

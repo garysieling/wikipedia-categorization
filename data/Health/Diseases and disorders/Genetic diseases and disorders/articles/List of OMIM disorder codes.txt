@@ -1,0 +1,1 @@
+This is a list of disorder codes in the Online Mendelian Inheritance in Man (OMIM) database. These are diseases that can be inherited via a Mendelian genetic mechanism. OMIM is one of the databases housed in the U.S. National Center for Biotechnology Information.  

@@ -1,0 +1,1 @@
+Calculated value of a chemical in the environment on the basis of exposure models such as the European Union System for the Evaluation of Substances (EUSES). Used in the context of Chemical Safety Assessments (CSA) and referenced in Chemical Safety Reports (CSR). PECs may be compared with Measured Environmental Concentrations (MEC) if available.  

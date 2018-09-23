@@ -1,0 +1,1 @@
+A dictionary writing system (DWS), or dictionary production/publishing  system (DPS) is a piece of software for writing and producing a dictionary, glossary, vocabulary, thesaurus etc. It might include an editor, a database, a web interface for collaborative work and various management tools. 

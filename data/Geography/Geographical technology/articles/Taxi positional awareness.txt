@@ -1,0 +1,1 @@
+Taxi positional awareness (abbreviated TPA) is an electronic map used by aircraft whilst taxiing. An example is the Electronic flight bag (EFB) produced by Boeing and Jeppesen.   

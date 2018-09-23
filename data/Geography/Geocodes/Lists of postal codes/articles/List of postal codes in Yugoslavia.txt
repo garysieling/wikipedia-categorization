@@ -1,0 +1,1 @@
+Yugoslavian postal codes consisted of five digits. The first two digits roughly correspond to the corresponding districts; district seat cities usually had 000 as the last three digits, while smaller towns and villages had non-round last three digits.  

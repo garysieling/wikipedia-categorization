@@ -1,0 +1,1 @@
+This is a list of freshwater ecoregions as compiled by the World Wildlife Fund (WWF). The terrestrial scheme divides the Earth's land surface into 8 terrestrial ecozones, containing 426 smaller ecoregions. Each ecoregion is classified into one of 12 major habitat types, or biomes. Legend: EcoID; Ecoregion; Biome (Major Habitat Type); Realm (Ecozone) 

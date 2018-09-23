@@ -1,0 +1,1 @@
+ A modal property is a property representing possession of the qualities (especially action qualities) required to do something or get something done. It is a base concept, one of the base concepts mentioned as base types in the WordNet ontology of semantics. It is not a mental property. It is not a physical property.  

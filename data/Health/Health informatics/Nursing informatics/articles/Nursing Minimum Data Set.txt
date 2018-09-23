@@ -1,0 +1,1 @@
+The Nursing Minimum Data Set (NMDS) is a classification system which allows for the standardized collection of essential nursing data. The collected data are meant to provide an accurate description of the nursing process used when providing nursing care. The NMDS allow for the analysis and comparison of nursing data across populations, settings, geographic areas, and time.    

@@ -1,0 +1,1 @@
+This is a list of FIPS 10-4 region codes, using a standardized name format, and cross-linking to articles. The list is broken up into alphabetical sections. ABC – DEF – GHI – JKL – MNO – PQR – STU – VWXYZ On September 2, 2008, FIPS 10-4 was one of ten standards withdrawn by NIST as a Federal Information Processing Standard.    It is to be replaced by ISO 3166.  

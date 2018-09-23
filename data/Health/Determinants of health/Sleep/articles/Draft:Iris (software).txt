@@ -1,0 +1,1 @@
+Iris is a software available for computers and phones, designed to filter blue light from the device's display. It allows for adjustment of colour temperature, luminosity and filter level. 

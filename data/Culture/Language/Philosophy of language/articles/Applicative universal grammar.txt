@@ -1,0 +1,1 @@
+Applicative universal grammar, or AUG, is a universal semantic metalanguage intended for studying the semantic processes in particular languages.  This is a linguistic theory that views the formation of phrase in a form that is analogous to function application in an applicative programming language. 

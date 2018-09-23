@@ -1,0 +1,1 @@
+This template is a helper for Template:WorksYearHeader, which is used to implement templates that are subcategories of Category:Works by year. Example: {{WorksYearHeader helper|WorkType=films|tens=198|year=1985|ParentType=works}}  Output:  

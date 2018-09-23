@@ -1,0 +1,1 @@
+A position circle is a circle that can be measured both from a chart and from the surface of the earth for the purpose of position fixing. The circles can be measured by sextant. Two overlapping position circles can be used to give a position  fix.  

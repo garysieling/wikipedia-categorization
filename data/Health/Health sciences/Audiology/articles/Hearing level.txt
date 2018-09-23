@@ -1,0 +1,1 @@
+Hearing level is the sound pressure level produced by an audiometer at a specific frequency. It is measured in decibels with reference to audiometric zero.  Hearing of speech is considered to be impaired   when the hearing level is shifted 25 dB or more.  

@@ -1,0 +1,1 @@
+This template adds a navigation header and category declarations to a category page for creative works of a specified decade. See {{WorksDecade navigation}} for more details. Example: {{WorksDecadeHeader|DecimalCentury=19|Decade=8|OrdinalCentury=20th|WorkType=films}}  Output:  

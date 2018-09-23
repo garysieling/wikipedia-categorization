@@ -1,0 +1,1 @@
+Imitext is a bitmap subtitle transmission technique proprietary to Screen Subtitling Systems. The technology has been licensed to Scientific Atlanta for incorporation into their PowerVu encoders and decoders. "PowerVu Video Subtitling" (PDF). Retrieved 2010-08-11.   

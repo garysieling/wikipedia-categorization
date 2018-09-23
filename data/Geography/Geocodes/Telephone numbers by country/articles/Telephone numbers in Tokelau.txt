@@ -1,0 +1,1 @@
+Country Code: +690 International Call Prefix: 00 The local telephone numbers in Tokelau are five digits long with no leading trunk zero. The numbers were increased from four to five digits in November 2015 by prefixing '2' to the old numbers.  Subscriber numbers: +690   NXXX (where	N = 1 to 9 and X = 0 to 9)  Test numbers:  

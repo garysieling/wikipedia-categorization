@@ -1,0 +1,1 @@
+A buffer in GIS is a zone around a map feature measured in units of distance or time. A buffer is useful for proximity analysis.  A buffer is an area defined by the bounding region determined by a set of points at a specified maximum distance from all nodes along segments of an object.  

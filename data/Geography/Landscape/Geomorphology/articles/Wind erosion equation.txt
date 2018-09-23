@@ -1,0 +1,1 @@
+A wind erosion equation is an equation used to design wind erosion control systems, which considers soil erodibility, soil roughness, climate, the unsheltered distance across a field, and the vegetative cover on the ground. 

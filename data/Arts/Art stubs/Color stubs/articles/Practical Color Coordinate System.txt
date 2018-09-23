@@ -1,0 +1,1 @@
+The Practical Color Coordinate System (PCCS) is a discrete color space indexed by hue and tone. It was developed by the Japan Color Research Institute. 

@@ -1,0 +1,1 @@
+Thonny is a Python IDE for beginners. It supports different ways of stepping through the code, step-by-step expression evaluation, detailed visualization of the call stack and a mode for explaining the concepts of references and heap.     

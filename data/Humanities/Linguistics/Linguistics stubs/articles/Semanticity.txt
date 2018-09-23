@@ -1,0 +1,1 @@
+Semanticity is one of Charles Hockett's 16 design features of language. Semanticity refers to the use of arbitrary or nonarbitrary signals to transmit meaningful messages.  Semantics is the meaning of words. Therefore, semanticity is its noun form.  

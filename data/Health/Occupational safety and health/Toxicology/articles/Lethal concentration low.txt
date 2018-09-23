@@ -1,0 +1,1 @@
+In toxicology, the LCLo is the lowest concentration of a chemical, given over a period of time, that results in the fatality of an individual animal. LCLo is typically for an acute (<24 hour) exposure.   It is related to the LC50, the median lethal concentration. The LCLo is used for gases and aerosolized material.   

@@ -1,0 +1,1 @@
+Response-rate ratio is a measure of efficacy of the therapy in clinical trials. It is defined as the proportion of improved patients in the treatment group, divided by the proportion of improved patients in the control group.  The same term has been used in marketing.  

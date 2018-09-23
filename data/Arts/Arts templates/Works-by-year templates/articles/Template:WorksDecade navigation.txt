@@ -1,0 +1,1 @@
+This template produces a navigation bar for categories containing creative works from a particular decade.  See {{WorksDecadeNavEntry}} for more details. Usage:  {{WorksDecade navigation|tens=N|works=TYPE}}  Example (2000s films): 1900s paintings:  1930s films:  1960s books: 

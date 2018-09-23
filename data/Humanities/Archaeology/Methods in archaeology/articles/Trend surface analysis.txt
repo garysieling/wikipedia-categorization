@@ -1,0 +1,1 @@
+Trend surface analysis is a mathematical technique used in environmental sciences (archeology, geology, soil science, etc.). Trend surface analysis (also called trend surface mapping) is a method based on low-order polynomials of spatial coordinates for estimating a regular grid of points from scattered observations - for example, from archeological finds or from soil survey.  

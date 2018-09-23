@@ -1,0 +1,1 @@
+Average yearly temperature is calculated by averaging the minimum and maximum daily temperatures in the country, averaged for the years 1961–1990, based on gridded climatologies from the Climatic Research Unit elaborated in 2011.  Map of countries by average yearly temperature. 

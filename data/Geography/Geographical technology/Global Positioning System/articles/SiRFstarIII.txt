@@ -1,0 +1,1 @@
+SiRFstarIII is a range of high sensitivity GPS microcontroller chips manufactured by SiRF Technology. GPS microcontroller chips interpret signals from GPS satellites and determine the position of the GPS receiver. It was announced in 2004  . SiRFstarIII features:  

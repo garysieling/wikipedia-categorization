@@ -1,0 +1,1 @@
+Stripe 82 is a 300 deg2 equatorial field of sky that was imaged multiple times by the Sloan Digital Sky Survey from 2000 to 2008.  It approximately covers the region with right ascension from 20:00h to 4:00h and declination from -1.26° to +1.26°. Stripe 82 has also been observed using many other telescopes and instruments, a list of which is given below.                    

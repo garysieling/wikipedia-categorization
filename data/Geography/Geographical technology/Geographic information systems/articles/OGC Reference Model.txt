@@ -1,0 +1,1 @@
+The OGC Reference Model describes a framework for the ongoing work of the  Open Geospatial Consortium (OGC) and their specifications and implementing interoperable  solutions and applications for geospatial services, data, and applications. It is not an OGC standard. It has the following purposes: 

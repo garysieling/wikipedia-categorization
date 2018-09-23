@@ -1,0 +1,1 @@
+SPL (Sentence Plan Language) is an abstract notation representing the semantics of a sentence in natural language. A generator can be used to transform input in SPL notation into a sentence in a natural language. There is no distinct definition of SPL available on the Internet, although some papers are available on the subject.  

@@ -1,0 +1,1 @@
+This template adds navigation headers and category declarations to a category page for films of a specific year.  See {{Filmyr headers}} for details. This category contains films originally released in the year 1942.  

@@ -1,0 +1,1 @@
+Online maps can be basically divided by the covered area (global or local) and by the representation of this area (classic drawn or orthophoto). These maps cover the world, but may have insufficient details in some areas. Local maps cover only part of the earth surface, and may be more detailed than the global ones. 

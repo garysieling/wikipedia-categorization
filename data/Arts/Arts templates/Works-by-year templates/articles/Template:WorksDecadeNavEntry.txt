@@ -1,0 +1,1 @@
+This template produces a single entry in a WorksDecade navigation bar. Usage:  {{WorksDecadeNavEntry|tens|works type}} Example:   {{WorksDecadeNavEntry|199|films}} Output: 1990s 

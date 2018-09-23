@@ -1,0 +1,1 @@
+Disease Informatics is the application of Information science in defining the diseases with least error, identifying most of the targets to combat a cluster of diseases (Disease Causal Chain), and designing a holistic solution (Health strategy) to the problem.   

@@ -1,0 +1,1 @@
+Dabble is an anagram word game designed by George Weiss and published by INI,  LLC.   Players draw lettered tiles in order to arrange them into words on a tiered tile rack. Each of the five tiers leaves room for a word of a certain number of letters. The first player to make five valid words wins.  

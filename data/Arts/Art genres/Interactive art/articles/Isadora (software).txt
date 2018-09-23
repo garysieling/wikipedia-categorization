@@ -1,0 +1,1 @@
+Isadora is a proprietary graphic programming environment for Mac OS X  and Microsoft Windows, with emphasis on real-time manipulation of digital video.  It was first released in 2002. It has support for Open Sound Control and MIDI. Isadora was designed by Mark Coniglio. 

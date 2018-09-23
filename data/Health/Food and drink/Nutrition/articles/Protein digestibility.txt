@@ -1,0 +1,1 @@
+Protein digestibility refers to how well a given protein is digested.  Along with the amino acid score, protein digestibility determines the values for PDCAAS and DIAAS. 

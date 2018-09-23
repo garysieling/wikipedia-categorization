@@ -1,0 +1,1 @@
+Standard sea level (SSL) (also known as sea level standard (SLS)) defines a set of conditions for physical calculations. The term "standard sea level" is used to indicate that values of properties are to be taken to be the same as those standard at sea level, and is done to define values for use in general calculations. At SSL some atmospheric properties are:     

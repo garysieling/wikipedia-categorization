@@ -1,0 +1,1 @@
+A map extent is the portion of area of a region show in a map. The limits of a map extent are defined in the coordinate system of the map. In Western culture, map extents usually have a rectangular shape, so they are defined with a minimum and maximum width and height. 

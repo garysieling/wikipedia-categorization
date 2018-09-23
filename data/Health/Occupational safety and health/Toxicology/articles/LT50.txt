@@ -1,0 +1,1 @@
+LT50 is the median Lethal Time (time until death)   after exposure of an organism to a toxic substance or stressful condition.  LT50 is commonly used in toxicology studies to quantify amount of a stressor necessary to kill an organism. LT50 can be used in conjunction with EC50 (median Exposure Concentration) for even more precise quantification.   

@@ -1,0 +1,1 @@
+In statistics, Wombling is any of a number of techniques used for identifying zones of rapid change, typically in some quantity as it varies across some geographical or Euclidean space.   It is named for statistician William H. Womble. The technique may be applied to gene frequency in a population of organisms, and to evolution of language.  

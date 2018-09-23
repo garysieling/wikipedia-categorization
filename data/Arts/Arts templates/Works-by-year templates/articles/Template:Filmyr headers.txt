@@ -1,0 +1,1 @@
+This template adds navigation headers to a category page for films of a specific year.  It is used by {{Filmyr}}. See {{Works year header}} and {{Category TOC}} for more details. Usage:  {{Filmyr headers|tens|ones}} Example:  {{Filmyr headers|195|6}} for 1956 films. Output for 1956: This category contains films originally released in the year 1956. 

@@ -1,0 +1,1 @@
+COLREG Tutor is an application created by Alistair Baillie,  a merchant navy officer as a means of assisting cadets and deck officers studying for their Maritime & Coast Guard Agency Orals Examinations to learn the practical side of the International Rules for the Prevention of Collisions at Sea. It is compatible with Mac OS X  and Windows 10.   

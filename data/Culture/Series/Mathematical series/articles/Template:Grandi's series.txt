@@ -1,0 +1,1 @@
+This is a simple navigation template based on {{navbox}}: {{Grandi's series}} The template is suitable for transcluding at the bottom of articles related to Grandi's series. 

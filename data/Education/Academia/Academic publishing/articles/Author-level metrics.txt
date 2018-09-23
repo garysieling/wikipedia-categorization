@@ -1,0 +1,1 @@
+Author-level metrics are citation metrics that measure the bibliometric impact of individual authors, researchers, academics, and scholars. A prime example is the h-index. Other metrics originally developed for academic journals can be reported at researcher level, such as the author-level eigenfactor  and the author impact factor.  

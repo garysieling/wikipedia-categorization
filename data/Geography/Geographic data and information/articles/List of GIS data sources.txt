@@ -1,0 +1,1 @@
+This is a list of GIS data sources (including some geoportals) that provide information sets that can be used in geographic information systems (GIS) and spatial databases for purposes of geospatial analysis and cartographic mapping. This list categorizes the sources of interest. 

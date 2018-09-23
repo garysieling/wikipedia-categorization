@@ -1,0 +1,1 @@
+This is a list of standalone video games that have been ported from a modification of another video game, and/or that are entirely based on a modification of another video game. A game is considered standalone when it does not require the purchase or installation of any other game (including separate engine software such as the Source SDK) in order to run. 

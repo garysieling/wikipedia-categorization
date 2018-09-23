@@ -1,0 +1,1 @@
+PATR-II is a linguistic formalism used in computational linguistics, developed by Stuart M. Shieber. It uses context-free grammar rules and feature constraints on these rules.  

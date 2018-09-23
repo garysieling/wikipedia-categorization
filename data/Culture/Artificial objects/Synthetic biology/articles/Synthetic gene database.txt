@@ -1,0 +1,1 @@
+Synthetic gene database (SGDB) is a database of artificially engineered genes.   

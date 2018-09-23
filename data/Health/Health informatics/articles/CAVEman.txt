@@ -1,0 +1,1 @@
+CAVEman is a 4D high-resolution model of a functioning human elaborated by University of Calgary. It resides in a cube-shaped virtual reality room, like a cave, also known as the "research holodeck", in which the human model floats in space, projected from three walls and the floor below.  

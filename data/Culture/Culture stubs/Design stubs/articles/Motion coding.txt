@@ -1,0 +1,1 @@
+In video compression technology, motion coding is a technique that can be viewed as extensions of the standard block-matching techniques in other MPEG standard to image sequences of arbitrary shape. Advanced motion compensation such as overlapped motion compensation and coding of motion vectors for 8x8 blocks, could be used.  

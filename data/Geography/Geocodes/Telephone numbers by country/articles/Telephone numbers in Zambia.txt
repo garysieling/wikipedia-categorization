@@ -1,0 +1,1 @@
+To call in Zambia, the following format is used: 0yyy xxxxxx Calls within Zambia +260 yyy xxxxxx Calls from outside Zambia 00 International Direct Dialing code Maximum Number Length excluding Country Code: 9 digits Minimum Number Length excluding Country Code: 9 digits    

@@ -1,0 +1,1 @@
+The following writing scripts have not been allocated an ISO 15924 code. 

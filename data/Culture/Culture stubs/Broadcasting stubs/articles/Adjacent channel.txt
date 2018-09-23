@@ -1,0 +1,1 @@
+In broadcasting an adjacent channel is an AM, FM, or TV channel that is next to another channel.  First-adjacent is immediately next to another channel, second-adjacent is two channels away, and so forth.  Information on adjacent channels is used in keeping stations from interfering with one another.  See Adjacent-channel interference.  

@@ -1,0 +1,1 @@
+Cell Computing is a now-defunct distributed computing project that was operated by NTT Data to perform biomedical research.  It used the Berkeley Open Infrastructure for Network Computing (BOINC) platform; however, it was initially launched using the United Devices Grid MP platform in 2002.  The project ended in 2008 due to lack of popularity.  

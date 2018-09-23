@@ -1,0 +1,1 @@
+For NNth century ballet premieres categories. Use like this for 20th century: {{BalletsInCentury|20th|19|20|19th|21st}}   

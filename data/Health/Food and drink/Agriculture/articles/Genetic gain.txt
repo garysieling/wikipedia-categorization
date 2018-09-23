@@ -1,0 +1,1 @@
+Genetic gain is the amount of increase in performance that is achieved through artificial genetic improvement programs. This is usually used to refer to the increase after one generation has passed.  

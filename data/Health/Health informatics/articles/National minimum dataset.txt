@@ -1,0 +1,1 @@
+In health informatics, a national minimum dataset is a database of health encounters held by a central repository. Minimum implies that the data fields will be only those required to aggregate information for the purposes of administering the health system in the particular country and for reporting information required as a member country of WHO.  

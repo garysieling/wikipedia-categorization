@@ -1,0 +1,1 @@
+ HAD CCD is the name of a technology Sony implemented on some of their CCD image sensors. (Diagonal) (typical value F5.6) (minimum value)   0.44 MP 1/2" G Mg 1.25 MP 1/3" 16.15 MP 1/2.3" 0.38 MP 1/2" 2800 mV (F8) 0.44 MP 1/2" 2800 mV (F8)  

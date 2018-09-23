@@ -1,0 +1,1 @@
+Shape coding is a method of design of a control that allows the control's function to be signified by the shape of the control.  It was used successfully by Alphonse Chapanis on airplane controls to improve aviation safety. 

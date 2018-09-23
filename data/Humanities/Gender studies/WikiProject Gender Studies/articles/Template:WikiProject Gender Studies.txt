@@ -1,0 +1,1 @@
+This WikiProject banner uses {{WPBannerMeta}}, a meta-template for easily creating and maintaining banners and talk-page notices. Please report any such errors or feature requests to Template talk:WPBannerMeta. Any information or warnings about the template are below: Syntax: Class can be left off or have any of the following values: 

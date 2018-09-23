@@ -1,0 +1,1 @@
+The Collaborative Hypertext of Radiology (or "CHORUS") is a free medical reference database. It is based upon a system originally developed at the University of Chicago, but is currently maintained at the Medical College of Wisconsin.  

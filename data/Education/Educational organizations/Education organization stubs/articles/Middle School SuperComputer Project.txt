@@ -1,0 +1,1 @@
+The Middle School SuperComputer Project is a cooperative effort to place a supercomputer in every school using a school's available computer resources. It uses the MPICH2 platform and normal 10-T gigabit ethernet.  

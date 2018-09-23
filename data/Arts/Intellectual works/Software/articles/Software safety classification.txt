@@ -1,0 +1,1 @@
+Software classification is based on potential for hazard(s) that could cause injury to the user or patient.  Per IEC 62304:2006, software can be divided into three separate classes: Injury or illness that directly or indirectly 

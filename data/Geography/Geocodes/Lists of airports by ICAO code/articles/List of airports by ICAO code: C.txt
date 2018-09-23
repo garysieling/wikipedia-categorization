@@ -1,0 +1,1 @@
+List of airports by ICAO code: A - B - C - D - E - F - G - H - I - J - K - L - M - N - O - P - Q - R - S - T - U - V - W - X - Y - Z Format of entries is: Currently, the only ICAO prefixes beginning with 'C' are 'CY' and 'CZ', both assigned to Canada. Airports that are part of the Canadian National Airports System are italicised. Also see airport category and list. 

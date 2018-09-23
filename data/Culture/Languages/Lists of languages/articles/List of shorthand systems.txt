@@ -1,0 +1,1 @@
+This is a list of shorthands, both modern and ancient. Currently, only one shorthand (Duployan) has been given an ISO code, in preparation for inclusion in the Unicode Standard, although the Tironian et has already been included in Unicode. ≈± 

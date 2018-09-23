@@ -1,0 +1,1 @@
+This template uses the definitions for these terms from the following references (note: these have been slightly modified for brevity): References To transclude this glossary to another page as it appears above, simply add the following to the target page's source code:  

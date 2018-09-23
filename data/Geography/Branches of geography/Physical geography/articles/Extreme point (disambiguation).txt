@@ -1,0 +1,1 @@
+An extreme point, in mathematics, is a point in a convex set which does not lie in any open line segment joining two points in the set. Extreme point or extremal point may also refer to: 

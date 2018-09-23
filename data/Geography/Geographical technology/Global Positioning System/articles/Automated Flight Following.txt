@@ -1,0 +1,1 @@
+Automated flight following (AFF) is GPS aircraft tracking that is mandated by a government agency (or other governing body) for its contractors.  The following criteria must be met: Common uses for AFF devices are contractors flying for USDA during fire season and contractors flying for utility companies. 

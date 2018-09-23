@@ -1,0 +1,1 @@
+In interaction design, PACT (an acronym for People, Activities, Contexts, Technologies) is a structure used to analyse with whom, what and where a user interact with a user interface    

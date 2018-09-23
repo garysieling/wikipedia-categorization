@@ -1,0 +1,1 @@
+Telephone numbers in the Cocos Islands use ranges owned by Australia. Country Code: +61 8 9162 (partial) International Call Prefix: 0011 Trunk Prefix: 0 Format +61 8 9162 XXXX Cocos Island numbers formerly used the +672 country code until 1994, when they were migrated to +61.   

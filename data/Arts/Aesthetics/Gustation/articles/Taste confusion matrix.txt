@@ -1,0 +1,1 @@
+Taste Confusion Matrix (TCM) is a method in which many compounds are tested at the same time.  It is a study of human taste perception.  It characterizes the quality of taste with identification patterns of some 10 stimuli which are analyzed.   

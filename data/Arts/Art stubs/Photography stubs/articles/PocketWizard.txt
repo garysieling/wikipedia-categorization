@@ -1,0 +1,1 @@
+The PocketWizard is a wireless radio triggering system for off-camera lighting developed in the late 1990s, by LPA Design, an American company based in South Burlington, Vermont. It requires a transmitter electrically connected to the camera, usually mounted on the camera's hot shoe, to trigger a remote receiver connected to a remote flash unit via a PC Cord. 

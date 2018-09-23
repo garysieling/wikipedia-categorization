@@ -1,0 +1,1 @@
+PASSER Series of programs are traffic control optimization programs designed by Texas Transportation Institute. The original authors of these programs were Dr. Carroll Messer, Dr. Dan Fambro, Dr. Edmond Chang and Dr. Nadeem Chaudhary - all from the Texas Transportation Institute. These programs are widely used all over the United States.  

@@ -1,0 +1,1 @@
+This template is used to implement templates that are subcategories of Category:Works by year, such as {{Playyr}}, {{Filmyr}}, or {{Songyr}}.  See template:Works year header/helper for details. 

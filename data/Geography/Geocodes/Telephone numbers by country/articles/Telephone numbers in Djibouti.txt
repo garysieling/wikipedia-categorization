@@ -1,0 +1,1 @@
+ The NSN length is eight digits. Digits 1 & 2 define service type, digits 3 & 4 are fixed line locality. A new number plan took effect 1 November 2010.  

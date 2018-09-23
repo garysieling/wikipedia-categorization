@@ -1,0 +1,1 @@
+This is a list of books in computational geometry. There are two major, largely nonoverlapping categories: The conferences below, of broad scope, published many seminal papers in the domain. 

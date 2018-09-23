@@ -1,0 +1,1 @@
+Plinkart is a mobile phone application designed to identify works of art, created by Mark Cummins and James Philbin.   Cummins and Philbin were one of three winners of the Education/Reference category of the Google ADC2 (Android Developer Challenge 2)  where the pair won $100,000. PlinkArt was acquired by Google in April 2010.   

@@ -1,6 +1,7 @@
 let _ = require('lodash');
 let fs = require('fs');
 let mkdirp = require('mkdirp');
+let cheerio = require('cheerio');
 
 let start = 'Main_topic_classifications'
 
@@ -49,10 +50,25 @@ walkSync('data/')
 	fs.unlinkSync(file);
 	return;
       }
-      //const dst = file.replace(/\/articles\//, '/pages/');
+
+      const dst = file.replace(/\.json$/, '.txt');
+      if (fs.existsSync(dst)) {
+	return;
+      }
+
+      const path = dst.substring(0, dst.lastIndexOf('/'));
       //console.log(JSON.stringify(data, null, 2));
-      //const text = data.parse.text['*'];
+      const text = data.parse.text['*'];
       //console.log(dst, text);
+      const $ = cheerio.load(text);
+      const innerText = 
+        $('p').text()
+         .replace(/\[edit\]/g, ' ')
+         .replace(/\[citation needed\]/g, ' ')
+         .replace(/\[[0-9]+\]/g, ' ')
+         .replace(/[\n\r]/g, ' ');
+
+      fs.writeFileSync(dst, innerText);
     }
   );
 

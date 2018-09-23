@@ -1,0 +1,1 @@
+Reflexiveness is one of Charles Hockett's 16 Design features of language which states that in a language the speaker can use his/her language to talk about language. Speakers of a language are able to have knowledge about their language and be able to reflect upon it.  

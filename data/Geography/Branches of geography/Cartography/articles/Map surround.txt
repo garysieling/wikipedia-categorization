@@ -1,0 +1,1 @@
+A map surround is any of the supporting objects or elements that help a reader interpret a map. Typical map surround elements include the title, legend, north arrow, scale bar, border, source information and other text, and inset maps.  

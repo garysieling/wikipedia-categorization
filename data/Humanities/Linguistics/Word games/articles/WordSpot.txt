@@ -1,0 +1,1 @@
+WordSpot is a fast-paced word search game designed by Russell Ginns and published by Front Porch Classics.   Players use transparent tokens to highlight words found on a board of wooden letter tiles. The goal is to use up all your tokens. 

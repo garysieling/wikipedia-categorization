@@ -1,0 +1,1 @@
+The relief ratio is a number calculated to describe the grade of a river or stream. The calculation is just the difference in elevation between the river's source and the river's confluence or mouth divided by the total length of the river or stream. This gives the average drop in elevation per unit length of river.   

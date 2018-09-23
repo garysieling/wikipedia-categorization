@@ -1,0 +1,1 @@
+Çevirmen is an object-oriented machine translation system designed to translate English text files to Turkish in an interactive environment.   

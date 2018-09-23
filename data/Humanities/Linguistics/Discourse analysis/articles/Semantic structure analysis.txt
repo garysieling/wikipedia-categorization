@@ -1,0 +1,1 @@
+Semantic structure analysis (or SSA) is a methodology for systematic description of the intended meaning of natural language, developed by the Summer Institute of Linguistics.  The name is also used for Eugene Nida's technique for mapping lexical items from a source language to a receptor language in translation theory.  

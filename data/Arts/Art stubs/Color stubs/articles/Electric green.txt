@@ -1,0 +1,1 @@
+The color displayed at right, electric green (X11/HTML/CSS color lime) is the brightest possible pure green that can be represented in a 24-bit-per-pixel RGB color space. This pure green represents one of the three additive primaries, along with red and blue, is used in computer monitors, and is reproduced as a good approximation to a pure spectral green.  

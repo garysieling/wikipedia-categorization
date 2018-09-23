@@ -1,0 +1,1 @@
+deegree supplies the building blocks of a Spatial Data Infrastructure, while implementing the standards of the Open Geospatial Consortium (OGC) and ISO/TC 211. The Java-based deegree framework is the most extensive implementation of OGC/ISO standards in the field of Free Software. The software graduated a OSGeo project as of January 4, 2012.  

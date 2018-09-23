@@ -1,0 +1,1 @@
+ myBlueprint is a Canadian education planning website,  designed to help with secondary school course selections, and career planning for youth and young adults.  The site is currently in use by over 300 school boards representing over 4,000 schools and over 600,000 pupils,  including the Toronto District School Board, among other Canadian boards.  

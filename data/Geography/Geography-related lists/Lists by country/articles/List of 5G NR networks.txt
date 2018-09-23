@@ -1,0 +1,1 @@
+ This is a list of commercial 5G NR networks around the globe, grouped by their frequency bands.   Note: This list of network deployments does not imply any widespread deployment or national coverage.  

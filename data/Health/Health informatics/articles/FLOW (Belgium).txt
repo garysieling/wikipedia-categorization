@@ -1,0 +1,1 @@
+FLOW is a Belgian national health care network, meant for health care providers and patients. It is an acronym which stands for Facilities (services and related infrastructure), Legal implementation (the telex files), Organisations (locoregional teams) and Wisdom (coordination and supervision center). The system is built around the principle of a shared health patient record.  

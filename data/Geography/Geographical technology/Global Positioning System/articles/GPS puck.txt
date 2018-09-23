@@ -1,0 +1,1 @@
+GPS puck has two meanings. It is a term for the antenna on GPS navigation devices, which receives GPS signals from GPS satellites.  The early antennas were round, and thus had the appearance of a hockey puck. Alternatively, a GPS puck is a full puck-sized GPS system (receiver and antenna). 

@@ -1,0 +1,1 @@
+A discourse relation (or rhetorical relation) is a description of how two segments of discourse are logically connected to one another. One method of modeling discourse involves a set of concepts that constitute "segmented discourse representation theory" (SDRT). Asher and Lascarides categorize the discourse relations formalized in SDRT into five classes.   

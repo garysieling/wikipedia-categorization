@@ -1,0 +1,1 @@
+Sound-on-disc is a class of sound film processes using a phonograph or other disc to record or play back sound in sync with a motion picture.  Early sound-on-disc systems used a mechanical interlock with the movie projector, while more recent systems use timecode. 

@@ -1,0 +1,1 @@
+HipNav was the first computer-assisted surgery system developed to guide the surgeon during total hip replacement surgery.   It was developed at Carnegie Mellon University.   

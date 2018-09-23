@@ -1,0 +1,1 @@
+A vicinal is a logological term for a word where all its letters have "alphabetic neighbors".  For instance, if a word has an "O" in it, to be a vicinal it must also have an "N" and/or a "P".  If none of the letters have alphabetic neighbors, it is known as a nonvicinal. Some vicinals:   Some nonvicinals:   Some words that are neither:   

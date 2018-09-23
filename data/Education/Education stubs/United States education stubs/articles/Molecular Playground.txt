@@ -1,0 +1,1 @@
+Molecular Playground is a project initiated by researchers at University of Massachusetts Amherst whose goal is to expose the molecular aspect of nature to the public by the use of a system which displays interactive molecule simulations in public areas. There are Molecular Playground installations at:  

@@ -1,0 +1,1 @@
+National Computer Rank Examination (NCRE) is a national exam held by China Education Department to test the computer proficiency and programming skill of non-computer specialized students and practitioners.The programming language can be chosen by examinees, including C, C++, Java, Visual Basic and Python 3. NCRE is widely recognized by enterprises and organizations in China.  

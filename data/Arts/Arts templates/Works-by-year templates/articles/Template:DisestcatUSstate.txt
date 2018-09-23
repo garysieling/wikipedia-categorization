@@ -1,0 +1,1 @@
+ This template is a modified version of Template:EstcatUSstate {{DisestcatUSstate| YYY | Y | state}} {{DisestcatUSstate|200|7|Wisconsin}}  

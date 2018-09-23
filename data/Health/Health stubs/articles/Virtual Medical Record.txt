@@ -1,0 +1,1 @@
+The Virtual Medical Record (vMR) is a simplified, standardised electronic health record data model designed to support interfacing to clinical decision support (CDS) systems. vMR is compatible with Service-oriented Architecture (SOA) of CDS. The project is sponsored by HL7.  

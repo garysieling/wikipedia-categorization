@@ -1,0 +1,1 @@
+A relief generation a set of landforms within a larger landform assembly that can be distinguished by their shape, age, scale and process that created them. A relief generation is typically nested within a larger and older generation and host itself younger and smaller generations. The concept was coined by Julius Büdel in 1955.   

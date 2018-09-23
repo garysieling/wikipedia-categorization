@@ -1,0 +1,1 @@
+The Total Recordable Incident Rate is a US measure of occupational safety and health, useful for comparing working conditions in workplaces and industries. It is calculated by combining the actual number of safety incidents and total work hours of all employees with a standard employee group (100 employees working 40 hours a week for 50 weeks a year).     

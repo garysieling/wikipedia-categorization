@@ -1,0 +1,1 @@
+Eneas is a brand of textile design software used to program knitting machines.  It can be used for custom pieces of clothing (i.e.: custom wear), or limited runs.     

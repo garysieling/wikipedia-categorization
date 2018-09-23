@@ -1,0 +1,1 @@
+ Bonza is a single-player crossword puzzle application developed by MiniMega. In Bonza, players are given fragments of a crossword puzzle and tasked with fitting them back together.  In 2016, the developers added a feature that allows players to create their own puzzles.  Bonza was chosen by Apple as part of the App Store's Best of 2014 list.  

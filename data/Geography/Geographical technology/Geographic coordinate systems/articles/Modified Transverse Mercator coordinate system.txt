@@ -1,0 +1,1 @@
+The Modified Transverse Mercator (MTM) coordinate system is a metric grid-based method of specifying locations, similar to the Universal Transverse Mercator coordinate system. MTM uses a Transverse Mercator projection with zones spaced 3° of longitude apart. The coordinate system is used in Eastern Canada.  

@@ -1,0 +1,1 @@
+Rational Polynomial Coefficients (RPCs) provide a compact representation of a ground-to-image geometry, allowing photogrammetric processing without requiring a physical camera model.  

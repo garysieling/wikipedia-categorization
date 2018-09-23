@@ -1,0 +1,1 @@
+To call in Burundi, the following format is used: yy yy xxxx Calls inside Burundi +257 yy yy xxxx Calls from outside Burundi The NSN length is eight digits.  25778806073 78806073 

@@ -1,0 +1,1 @@
+In distributed computing, failure semantics is used  to describe and classify errors that distributed systems can experience.   A list of types of errors that can occur: 

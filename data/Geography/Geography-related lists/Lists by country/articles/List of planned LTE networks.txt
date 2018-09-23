@@ -1,0 +1,1 @@
+This is a list of planned commercial Long-Term Evolution (LTE) networks around the world, grouped by their frequency bands. Some operators utilize multiple bands and are therefore listed multiple times in respective sections. 

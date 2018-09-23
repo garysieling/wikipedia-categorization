@@ -1,0 +1,1 @@
+The Web Registry Service is a software component that supports the run-time discovery and evaluation of resources such as services, datasets, and application schemes.  Open Geospatial Consortium (OGC)  

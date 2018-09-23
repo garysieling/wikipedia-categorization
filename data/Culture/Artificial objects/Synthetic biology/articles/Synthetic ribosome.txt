@@ -1,0 +1,1 @@
+Synthetic ribosomes are artificial small-molecules that can synthesize peptides in a sequence-specific matter.  David Alan Leigh's lab built synthetic ribosome using a chemical structure based on a rotaxane.  The Cédric Orelle research group created ribosomes with tethered and inseparable subunits (or Ribo-T).  

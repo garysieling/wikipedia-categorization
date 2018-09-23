@@ -1,0 +1,1 @@
+Recursive categorical syntax, also sometimes called algebraic syntax, is an algebraic theory of syntax developed by Michael Brame as an alternative to transformational-generative grammar. 

@@ -1,0 +1,1 @@
+Stigler's law concerns the supposed tendency of eponymous expressions for scientific discoveries to honor people other than their respective originators. Examples include:  "Since that definition predated Boyce and Codd's own definition by some three years, it seems to me that BCNF ought by rights to be called Heath normal form. But it isn't."     

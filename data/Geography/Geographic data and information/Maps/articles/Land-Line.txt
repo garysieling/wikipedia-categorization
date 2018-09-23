@@ -1,0 +1,1 @@
+In the UK Land-Line is a comprehensive dataset, provided by Ordnance Survey, depicting man-made and natural features ranging from houses, factories, roads and rivers to marshland and administrative boundaries. Land-Line is a vector format (compare with DXF).  Land-Line has been superseded by MasterMap.  

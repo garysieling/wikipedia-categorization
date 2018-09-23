@@ -1,0 +1,1 @@
+Xerte is open source software for authoring learning objects. It is developed by the University of Nottingham in the UK and is free to download from the Xerte Community website.     

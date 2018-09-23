@@ -1,0 +1,1 @@
+Collagen-induced arthritis (CIA) is a condition induced in mice (or rats) to study rheumatoid arthritis.  CIA is induced in mice by injecting them with an emulsion of complete Freund's adjuvant and type II collagen.  In rats, only one injection is needed, but mice are normally injected twice.   

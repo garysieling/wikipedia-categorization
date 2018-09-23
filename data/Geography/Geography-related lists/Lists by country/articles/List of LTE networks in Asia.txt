@@ -1,0 +1,1 @@
+ This is a list of commercial Long-Term Evolution (LTE) networks in Asia, grouped by their frequency bands. Some operators use multiple bands and are therefore listed multiple times in respective sections. Note: This list of network deployments does not imply any widespread deployment or national coverage. 
