@@ -26,10 +26,12 @@ walkSync('data/')
       //console.log(body);
       let data = null;
       let tags = file.split('/');
+      let tag_list = '';
       for (let i = 1; i < tags.length - 2; i++) {
-        console.log(tags[i] + ' ' + body);
+        tag_list = tag_list + '__label__' + tags[i].replace(/[ '"/\\]/, '_') + ' ';
         //console.log(tags[i]);
       }
-
+      
+      console.log(tag_list + ' ' + body);
     }
   );
