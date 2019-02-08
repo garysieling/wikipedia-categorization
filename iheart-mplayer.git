@@ -1,0 +1,140 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+
+wiki road map
+Repositories0
+Code293K
+Commits104
+Issues5K
+Marketplace0
+Topics0
+Wikis2K
+Users0
+Languages
+62,863 HTML
+44,899 JavaScript
+42,869 Text
+20,099 CSV
+16,447 JSON
+12,867 XML
+12,029 Markdown
+4,404 Gettext Catalog
+3,812 Ruby
+3,644 C
+Advanced search 
+293,770 code results
+@wesnoth
+wesnoth/wesnoth – english.cfg
+Showing the top five matches Last indexed on Nov 17, 2018
+HAProxy
+    # po: Generator for bridge labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
+    # po: Generator for road labels in random maps; see <https://wiki.wesnoth.org/Context-free_grammar> for syntax and <https://wiki.wesnoth.org/MapGeneratorWML#The_Default_Generator> for variables summary
+    road_name_generator= _ <<
+		road_type=Highway|Pass|Path|Road|Way|Trail
+@ThinkGeo
+ThinkGeo/VehicleTrackingSample-ForWinForms – README.md
+Showing the top four matches Last indexed on Jan 9
+Markdown
+Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_winforms) for the details.
+
+Because this sample needs Microsoft.Jet.OLEDB provider, please **run in x86 mode**.
+[MapSuite 10.0.0](https://www.nuget.org/packages?q=ThinkGeo)
+
+### About the Code
+```csharp
+WorldMapKitWmsDesktopOverlay worldMapKitRoadOverlay = new WorldMapKitWmsDesktopOverlay();
+@ThinkGeo
+ThinkGeo/FindNearestCrossStreetsSample-ForWpf – README.md
+Showing the top six matches Last indexed on Jul 6, 2018
+Markdown
+This sample demonstrates how to geocode an address using Map Suite Geocoder. It then returns and highlights the low and high cross streets.          
+
+Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_wpf) for the details.
+Feature startCrossFeature = GetCrossRoad(feature, isLeftSide, intersectedStartFeatures);
+```
+### Getting Help
+
+[Map Suite Desktop for Wpf Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_wpf)
+@ericzh86
+ericzh86/qtwiki – QtWebEngineRoadMap.html
+Showing the top four matches Last indexed on Jul 1, 2018
+HTML
+<title>Pages that link to "QtWebEngineRoadMap" - Qt Wiki</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta name="generator" content="MediaWiki 1.23.3" />
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Pages that link to "QtWebEngineRoadMap"</span></h1>
+						<div id="bodyContent">
+								<div id="contentSub">← <a href="http://wiki.qt.io/QtWebEngineRoadMap" title="QtWebEngineRoadMap">QtWebEngineRoadMap</a></div>
+@ericzh86
+ericzh86/qtwiki – index3168.html
+Showing the top five matches Last indexed on Jul 1, 2018
+HTML
+				<div id="mw-revision-nav">(<a href="http://wiki.qt.io/index.php?title=QtWebEngineRoadMap&amp;diff=prev&amp;oldid=10328" title="QtWebEngineRoadMap">diff</a>) <a href="http://wiki.qt.io/index.php?title=QtWebEngineRoadMap&amp;direction=prev&amp;oldid=10328" title="QtWebEngineRoadMap">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div>
+<td style="padding: 0.25em 0.5em;"> <b>This article may require cleanup to meet the Qt Wiki's quality standards.</b> Reason: Auto-imported from ExpressionEngine.<br /><small>Please <b><a rel="nofollow" class="external text" href="http://wiki.qt.io/index.php?title=QtWebEngineRoadMap&amp;action=edit">improve this article</a></b> if you can. Remove the {{cleanup}} tag and add this page to <b><a href="http://wiki.qt.io/Updated_pages" title="Updated pages">Updated pages</a></b> list after it's clean.</small>
+@ericzh86
+ericzh86/qtwiki – indexd26e.html
+Showing the top six matches Last indexed on Jul 1, 2018
+HTML
+<title>View source for QtWebEngineRoadMap - Qt Wiki</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta name="generator" content="MediaWiki 1.23.3" />
+								<div id="contentSub">← <a href="http://wiki.qt.io/QtWebEngineRoadMap" title="QtWebEngineRoadMap">QtWebEngineRoadMap</a></div>
+@ericzh86
+ericzh86/qtwiki – indexba75-2.html
+Showing the top four matches Last indexed on Jul 1, 2018
+HTML
+<title>Revision history of "QtWebEngineRoadMap" - Qt Wiki</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<link rel="alternate" type="application/atom+xml" title="&quot;QtWebEngineRoadMap&quot; Atom feed" href="http://wiki.qt.io/index.php?title=QtWebEngineRoadMap&amp;feed=atom&amp;action=history" />
+<link rel="alternate" type="application/atom+xml" title="Qt Wiki Atom feed" href="http://wiki.qt.io/index.php?title=Special:RecentChanges&amp;feed=atom" />
+@JA812
+JA812/Project9-NeighborhoodMap – main.js
+Showing the top three matches Last indexed on Jul 5, 2018
+JavaScript
+    "lat": 33.786801,
+    "lng": -84.379517,
+    "wikiPageName": "Midtown_Atlanta"
+}, {
+    "name": "Buckhead",
+            clearTimeout(wikiRequestTimeOut);
+        }
+    });
+};
+
+//Google MapsAPI
+var map;
+//Set TimeOut
+var googleMapsTimeout = setTimeout(function() {
+@migurski
+migurski/HighRoad – README.md
+Showing the top six matches Last indexed on Jun 26, 2018
+Markdown
+High Road
+=========
+
+This may be the last OpenStreetMap road query you will ever need.
+
+Between [Mapnik](http://mapnik.org), [Cascadenik](https://github.com/mapnik/Cascadenik/wiki),
+table produced by [Osm2pgsql](http://wiki.openstreetmap.org/wiki/Osm2pgsql).
+
+To use High Road, run the source of `high_road_views-setup.pgsql` against your existing OSM rendering
+@smendez-hi
+smendez-hi/SUMO-hib – SUMO_edge_type_file.html
+Showing the top six matches Last indexed on Jun 30, 2018
+HTML
+<p>The SUMO edge type file defines default values for some tags, which are taken if no explicit value is given for a certain road in a OpenStreetMap file. So the OpenStreetMap tags <i>maxspeed</i>, <i>lanes</i> and <i>oneway</i> override these defaults. If the map is tagged correctly, these tags should only be omitted if their value equals an implicitly assumed value. In this section, SUMO edge type files are collected that contain these implicit values of OpenStreetMap for various contexts. The following OpenStreetMap pages help to find out the implicit values for the following attributes:
+<dl><dt> allow/disallow&nbsp;</dt><dd> <a href="http://wiki.openstreetmap.org/wiki/Map_Features" class="external text" title="http://wiki.openstreetmap.org/wiki/Map_Features" rel="nofollow">Map features</a>, <a href="http://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access-Restrictions" class="external text" title="http://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access-Restrictions" rel="nofollow">OSM tags for routing/Access restrictions</a>.
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
